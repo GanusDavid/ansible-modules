@@ -1,0 +1,12 @@
+---
+collections:
+  - community.general
+  - openstack.cloud
+  - community.vmware
+  - community.windows
+  - community.kubernetes
+  - community.grafana
+  - commuinty.zabbix
+  - community.postgresql
+  - community.mysql
+  - community.mongodb
